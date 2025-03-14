@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey there, I'm Zine-eddine!
 
-<!--
-**zinef/zinef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Data Scientist passionate about **Machine Learning, AI, and Data Engineering**. My work focuses on solving real-world problems with data-driven solutions, exploring the latest advancements in AI, and sharing knowledge with the community.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- 📊 **Data Science & Machine Learning** – Building models, uncovering insights, and optimizing performance.
+- 🤖 **Artificial Intelligence** – NLP, LLMs, and deep learning experiments.
+- 🛠 **Data Engineering** – Working with large-scale data, pipelines, and cloud solutions.
+- ✍️ **Content Creation** – Sharing insights via blogs, tutorials, and open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Connect with Me
+- **LinkedIn**: [Connect here](https://www.linkedin.com/in/zinef/)
+- **GitHub**: [Explore my repos](https://github.com/zinef)
+- **Medium**: [Read my articles](https://medium.com/@z1z0u)
+
+## 💡 Let's Collaborate!
+I'm always open to discussions, collaborations, and knowledge sharing. Feel free to reach out if you have an exciting project, an idea, or just want to chat about AI & Data Science.
+
+---
+🚀 Keep learning, keep building!
+
